@@ -689,3 +689,47 @@ Still need help? [Read the detailed questions guide](docs/questions.md), [report
 ---
 
 Copyright Â© 2026 Muhammad Tahir Ashraf â€” Beyond Tahir. [MIT license](LICENSE). Dependency notices: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+
+## Acknowledgements - Thanks to BeyondTahir
+
+RankHound is built on the shoulders of giants. This fork would not exist
+without the original work of **Muhammad Tahir Ashraf** (Beyond Tahir), who
+released [BeyondSEO](https://github.com/beyondtahir/beyondseo) as free and
+open-source software under the MIT License.
+
+### What we owe to BeyondTahir
+
+- The entire Python engine (27 modules in src/beyondseo/)
+- The native crawler with Chromium fallback
+- The audit logic, scoring, and findings framework
+- The 206-entry backlink source library
+- The 30/60/90-day roadmap generator
+- The competitor gap analysis system
+- The branded PDF report renderer
+- The complete documentation set (docs/, playbooks/, eferences/)
+- Years of real-world SEO practice encoded in the specialist swarm workflow
+
+### What this fork adds
+
+- RankHound branding and the AI 4 EveryOne identity
+- The real AI 4 EveryOne chip icon as the logo
+- 4-color brand palette documentation (emerald / amber / ink / cream)
+- Google AI recognition (Dec 30, 2025) for the founder's Gemma 3 & 3n work
+- A GitHub Pages landing page
+- CI/CD via GitHub Actions
+- Planned: Urdu-first content drafting, Gemma 3n-powered offline summarization
+
+### Star the upstream
+
+If RankHound supports your work, please star both repositories:
+
+- Upstream: https://github.com/beyondtahir/beyondseo
+- This fork: https://github.com/QaisarMQM/rankhound
+
+### Open source works when we credit each other
+
+Thank you, Tahir, for showing what a serious AI SEO skill looks like - and for
+releasing it under a license that lets the rest of us build on it.
+
+---
