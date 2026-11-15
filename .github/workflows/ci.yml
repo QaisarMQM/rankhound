@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Python ${{ matrix.python-version }}
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python-version }}
@@ -32,8 +32,8 @@ jobs:
 
       - name: Run tests
         run: pytest tests/ -v
-        continue-on-error: true  # upstream tests may need a real browser/Chromium
+        continue-on-error: true
 
       - name: Doctor check
         run: python scripts/run.py doctor
-        continue-on-error: true  # GitHub Actions runners don't have Chromium pre-installed
+        continue-on-error: true
