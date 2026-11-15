@@ -1,0 +1,29 @@
+﻿cff-version: 1.2.0
+message: "If RankHound supports your work, please cite this fork and the upstream BeyondSEO repository."
+title: "RankHound: AI SEO skill for website audits, content and backlinks (fork of BeyondSEO)"
+type: software
+version: 2.11.0-rankhound.2
+authors:
+  - family-names: Malik
+    given-names: Muhammad Qaisar Abbas
+    email: qaisar.mqm@gmail.com
+    website: https://linkedin.com/in/qaisamqm
+  - family-names: Ashraf
+    given-names: Muhammad Tahir
+    website: https://beyondtahir.com
+repository-code: https://github.com/QaisarMQM/rankhound
+url: https://github.com/beyondtahir/beyondseo
+license: MIT
+keywords:
+  - SEO
+  - AI SEO skill
+  - answer engine optimization
+  - generative engine optimization
+  - website audits
+  - content strategy
+  - web crawling
+  - reputation
+  - backlinks
+  - RankHound
+  - AI 4 EveryOne
+  - Gemma 3n
